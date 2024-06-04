@@ -1,0 +1,5 @@
+body{
+    font-family:'Courier New', Courier, monospace;
+    text-align: center;
+    /*because it is in the the body, it means that everything there will be aligned in the center*/
+}
